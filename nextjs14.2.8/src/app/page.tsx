@@ -7,7 +7,7 @@ export default function TestPage() {
 
   return (
     <div>
-      test page(Next.js 15.3.9)
+      test page(Next.js 14.2.8)
       {user && <p>Welcome, {user.firstName}!</p>}
     </div>
   );
